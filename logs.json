@@ -1,0 +1,37 @@
+[
+    {
+        "timestamp": "2025-05-07 10:00:00",
+        "level": "INFO",
+        "component": "UserAuth",
+        "message": "User 'john.doe' logged in successfully.",
+        "log_id": "d40433ba-ef9e-4a7a-820c-76349a6dd8b8"
+    },
+    {
+        "timestamp": "2025-05-07 10:00:15",
+        "level": "WARNING",
+        "component": "GeoIP",
+        "message": "Could not resolve IP address '192.168.1.100'.",
+        "log_id": "869d57ca-f060-4763-a1cc-36c0a5d3a71a"
+    },
+    {
+        "timestamp": "2025-05-07 10:00:20",
+        "level": "ERROR",
+        "component": "Payment",
+        "message": "Transaction failed for user 'jane.doe'.",
+        "log_id": "a69c9e03-14d3-4b97-aeb7-44cd1f2105ba"
+    },
+    {
+        "timestamp": "2025-05-07 10:00:25",
+        "level": "INFO",
+        "component": "UserAuth",
+        "message": "User 'alice.smith' logged out.",
+        "log_id": "0be7d35b-d8f7-4fe8-9b4e-ba5d3633c461"
+    },
+    {
+        "timestamp": "Timestamp",
+        "level": "Level",
+        "component": "Component",
+        "message": "Message",
+        "log_id": "f1bcbd54-5cce-4555-9563-2c8d84229c70"
+    }
+]

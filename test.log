@@ -1,0 +1,5 @@
+Timestamp\tLevel\tComponent\tMessage
+2025-05-07 10:00:00\tINFO\tUserAuth\tUser 'john.doe' logged in successfully.
+2025-05-07 10:00:15\tWARNING\tGeoIP\tCould not resolve IP address '192.168.1.100'.
+2025-05-07 10:00:20\tERROR\tPayment\tTransaction failed for user 'jane.doe'.
+2025-05-07 10:00:25\tINFO\tUserAuth\tUser 'alice.smith' logged out.
